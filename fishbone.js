@@ -104,7 +104,7 @@
   };
   // Make AMD module
   if ( typeof define === "function" && define.amd ) {
-      define( "model", [], function() {
+      define( "fishbone", [], function() {
           return Model;
       });
   }
