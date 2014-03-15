@@ -1,3 +1,5 @@
+# CAUTION ---- The source file is AMD adapted, meanwhile the minified aren't.
+
 # Fishbone.js `c-{{{-<`
 
 A super lightweight (½kb) JavaScript library with automatic method chaining, automatic context binding, event support and simple inheritance.
